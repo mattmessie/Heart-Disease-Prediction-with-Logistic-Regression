@@ -53,8 +53,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn ucimlrepo
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/[your-username]/heart-disease-logistic-regression.git
-cd heart-disease-logistic-regression
+git clone https://github.com/mattmessie/Heart-Disease-Prediction-with-Logistic-Regression.git
+cd Heart-Disease-Prediction-with-Logistic-Regression
 ```
 
 2. Install dependencies:
@@ -76,7 +76,7 @@ jupyter notebook heart_disease_logistic_regression.ipynb
 ## Repository Structure
 
 ```
-heart-disease-logistic-regression/
+Heart-Disease-Prediction-with-Logistic-Regression/
 │
 ├── heart_disease_logistic_regression.ipynb   # Full reproducible notebook
 ├── heart_disease_tutorial.pdf                # Written tutorial
