@@ -4,6 +4,7 @@ A machine learning tutorial demonstrating an end-to-end Logistic Regression pipe
 
 **Tutorial topic:** Binary classification — predicting the presence of heart disease from 13 clinical features.  
 **Author:** Matthew Jeremiah Messiah 
+
 **Student Id:** 24136779 
 
 
